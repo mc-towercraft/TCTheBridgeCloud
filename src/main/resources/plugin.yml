@@ -1,0 +1,4 @@
+name: TCTheBridgeCloud
+version: '${project.version}'
+main: mc.towercraft.rolles.util.tcthebridgecloud.TCTheBridgeCloud
+authors: [ Rolles ]
